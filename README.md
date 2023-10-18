@@ -1,2 +1,2 @@
-# JavaDabaDevs-E-commerce--PROYECTO
+# The JavaDabaDev's E-COMMERCE
 The JavaDavaDev's proyecto integrador
