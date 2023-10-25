@@ -35,9 +35,6 @@ Como parte de un **proyecto integrador**, nuestro objetivo es crear una platafor
 
 La fecha límite para la finalización y entrega del proyecto es el **10 de Noviembre de 2023**.
 
-## 📩 Contacto 📩
-[mamanicarolina27@gmail.com](mailto:mamanicarolina27@gmail.com)
-
 ---
 
 Este README será actualizado a medida que avance el desarrollo del proyecto y se añadan más detalles.
