@@ -1,0 +1,437 @@
+{
+  "codigo": "",
+  "celulares": [
+    {
+      "id": 1,
+      "imagen": "./img/Samnsung galaxy a24.webp",
+      "nombre": "Samsung Galaxy A24 Dual SIM 128 GB verde claro 4 GB RAM",
+      "descripcion": "Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados",
+      "categoria": "Samnsung",
+      "precio": 699900
+    },
+    {
+      "id": 2,
+      "imagen": "./img/Samnsung galaxy s23.webp",
+      "nombre": "Samsung Galaxy S23 Ultra Dual SIM 256 GB phantom black 12 GB RAM",
+      "descripcion": "Descubre infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados",
+      "categoria": "Samnsung",
+      "precio": 4179900
+    },
+    {
+      "id": 3,
+      "imagen": "./img/Samnsung galaxy a34.webp",
+      "nombre": "Samsung Galaxy A34 5G 128 GB awesome lime 6 GB RAM",
+      "descripcion": "Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados",
+      "categoria": "Samnsung",
+      "precio": 1019900
+    },
+    {
+      "id": 4,
+      "imagen": "./img/Samnsung galaxy a54.webp",
+      "nombre": "Samsung Galaxy A54 5G Dual SIM 256 GB awesome lime 8 GB RAM",
+      "descripcion": "Mira tus series y películas favoritas con la mejor definición a través de su pantalla Super AMOLED de 6.4. Disfruta de colores brillantes y detalles precisos en todos tus contenidos",
+      "categoria": "Samnsung",
+      "precio": 1489000
+    },
+    {
+      "id": 5,
+      "imagen": "./img/Samnsung galaxy a14.webp",
+      "nombre": "Samsung Galaxy A14 4G (Exynos) Dual SIM 128 GB black 4 GB RAM",
+      "descripcion": "el dispositivo cuenta con cámara frontal de 13 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.",
+      "categoria": "Samnsung",
+      "precio": 544900
+    },
+    {
+      "id": 6,
+      "imagen": "./img/Samnsung galaxy a04.webp",
+      "nombre": "Samsung Galaxy A04 Dual SIM 64 GB negro 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar",
+      "categoria": "Samnsung",
+      "precio": 442200
+    },
+    {
+      "id": 7,
+      "imagen": "./img/Samnsung galaxy z flip4.webp",
+      "nombre": "Samsung Galaxy Z Flip4 5G 256 GB graphite 8 GB RAM",
+      "descripcion": "Al plegarse, adopta un tamaño pequeño y compacto que te resultará muy cómodo para transportar. Cuando quieras disfrutar de tus contenidos favoritos se transforma desplegando su pantalla de 6.7",
+      "categoria": "Samnsung",
+      "precio": 3829900
+    },
+    {
+      "id": 8,
+      "imagen": "./img/Poco X5.webp",
+      "nombre": "Xiaomi Pocophone Poco X5 Pro 5G Dual SIM 256 GB azul 8 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 8 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Xiaomi",
+      "precio": 1239900
+    },
+    {
+      "id": 9,
+      "imagen": "./img/Redmi Note 12.webp",
+      "nombre": "Xiaomi Redmi Note 12 4G Dual SIM 128 GB mint green 4 GB RAM",
+      "descripcion": " memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Xiaomi",
+      "precio": 597900
+    },
+    {
+      "id": 10,
+      "imagen": "./img/Redmi 12c.webp",
+      "nombre": "Xiaomi Redmi 12C Dual SIM 128 GB azul oceano 4 GB RAM",
+      "descripcion": "2 cámaras traseras de 50 Mpx/2 Mpx te permitirán tomar imágenes con más detalles y lograr efectos únicos como el famoso modo retrato de poca profundidad de campo.",
+      "categoria": "Xiaomi",
+      "precio": 409900
+    },
+    {
+      "id": 11,
+      "imagen": "./img/Redmi 9A.webp",
+      "nombre": "Xiaomi Redmi 9A Dual SIM 32 GB azul celeste 2 GB RAM",
+      "descripcion": "memoria RAM de 2 GB es justo lo que necesitas para utilizar las funciones más importantes como llamar, enviar mensajes, navegar y ejecutar aplicaciones de uso frecuente como redes sociales o multimedia.",
+      "categoria": "Xiaomi",
+      "precio": 359900
+    },
+    {
+      "id": 12,
+      "imagen": "./img/Redmi 10.webp",
+      "nombre": "Xiaomi Redmi 10 2022 Dual SIM 128 GB gris carbón 4 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 8 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras",
+      "categoria": "Xiaomi",
+      "precio": 467900
+    },
+    {
+      "id": 13,
+      "imagen": "./img/Poco X5.webp",
+      "nombre": "Xiaomi Pocophone Poco X5 5G Dual SIM 256 GB verde 8 GB RAM",
+      "descripcion": "Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados",
+      "categoria": "Xiaomi",
+      "precio": 984900
+    },
+    {
+      "id": 14,
+      "imagen": "./img/Samnsung galaxy a24.webp",
+      "nombre": "Samsung Galaxy A24 Dual SIM 128 GB verde claro 4 GB RAM",
+      "descripcion": "Descubre infinitas posibilidades para tus fotos con las 3 cámaras principales de tu equipo. Pon a prueba tu creatividad y juega con la iluminación, diferentes planos y efectos para obtener grandes resultados",
+      "categoria": "Xiaomi",
+      "precio": 699.900
+    },
+    {
+      "id": 15,
+      "imagen": "./img/Iphone 14.webp",
+      "nombre": "iPhone 14 128 GB amarillo",
+      "descripcion": "memoria interna de 128 GB podrás almacenar archivos y aplicaciones de gran tamaño sin necesidad de subirlos a la nube y aprovechar tus momentos sin conexión para darles el máximo uso.",
+      "categoria": "Iphone",
+      "precio": 3599900
+    },
+    {
+      "id": 16,
+      "imagen": "./img/Iphone 14 Pro.webp",
+      "nombre": "Apple iPhone 14 Pro (128 GB) - Negro espacial",
+      "descripcion": "El iPhone 14 Pro te permite captar detalles increíbles gracias a su cámara gran angular de 48 MP. Además, trae la Dynamic Island y una pantalla siempre activa, para que puedas interactuar con tu iPhone de una forma completamente nueva. Y viene con Detección de Choques(1), una funcionalidad de seguridad que pide ayuda cuando no estás en condiciones de hacerlo. ",
+      "categoria": "Iphone",
+      "precio": 5226306
+    },
+    {
+      "id": 17,
+      "imagen": "./img/Iphone 15.webp",
+      "nombre": "Apple iPhone 15 (128 GB) - Negro",
+      "descripcion": "El iPhone 15 viene con la Dynamic Island, cámara gran angular de 48 MP, entrada USB-C y un resistente vidrio con infusión de color en un diseño de aluminio",
+      "categoria": "Iphone",
+      "precio": 4249900
+    },
+    {
+      "id": 18,
+      "imagen": "./img/Iphone SE.webp",
+      "nombre": "Apple iPhone SE (3ª generación, 64 GB) - Blanco estelar",
+      "descripcion": "Chip A15 Bionic superrápido. Una increíble duración de batería y una cámara que es una superestrella. Y además, el vidrio más resistente en un smartphone y botón de inicio con la seguridad de Touch ID",
+      "categoria": "Iphone",
+      "precio": 1997800
+    },
+    {
+      "id": 19,
+      "imagen": "./img/Iphone 15 Pro Max.webp",
+      "nombre": "Apple iPhone 15 Pro Max (256 GB) - Titanio Azul",
+      "descripcion": "tiene un diseño resistente y ligero, con titanio de calidad aeroespacial y parte posterior de vidrio mate texturizado. Frente de Ceramic Shield, más duro que el vidrio más duro de cualquier smartphone. Y resistencia a las salpicaduras, al agua y al polvo. ",
+      "categoria": "Iphone",
+      "precio": 6860000
+    },
+    {
+      "id": 20,
+      "imagen": "./img/Iphone 13.webp",
+      "nombre": "Apple iPhone 13 (128 GB) - Azul medianoche",
+      "descripcion": "La pantalla tiene esquinas redondeadas que siguen el elegante diseño curvo del teléfono, y las esquinas se encuentran dentro de un rectángulo estándar. Si se mide en forma de rectángulo estándar, la pantalla tiene 6.06 pulgadas en diagonal. El área real de visualización es menor.",
+      "categoria": "Iphone",
+      "precio": 3099900
+    },
+    {
+      "id": 21,
+      "imagen": "./img/Iphone 11 Pro.webp",
+      "nombre": "iPhone 11 Pro 64 GB verde medianoche",
+      "descripcion": "La pantalla OLED Super Retina XDR de 5,8, sin marcos y con una resolución FullHD+, es la pantalla más nítida diseñada por Apple. Cuenta con dos niveles máximos de brillo que se ajustan automáticamente a la luz del ambiente. Gracias a la alta intensidad de contrastes y a un mayor nivel de detalle, es perfecta para ver películas HDR, incluso bajo el sol",
+      "categoria": "Iphone",
+      "precio": 2759999
+    },
+    {
+      "id": 22,
+      "imagen": "./img/Moto G52.webp",
+      "nombre": "Moto G52 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Motorola",
+      "precio": 624900
+    },
+    {
+      "id": 23,
+      "imagen": "./img/Moto G32.webp",
+      "nombre": "Moto G32 Dual SIM 128 GB gris mineral 4 GB RAM",
+      "descripcion": "Máxima seguridad para que solo tú puedas acceder al equipo. Podrás elegir entre el sensor de huella dactilar para habilitar el teléfono en un toque, o el reconocimiento facial que permite un desbloqueo hasta un 30% más rápido.",
+      "categoria": "Motorola",
+      "precio": 559900
+    },
+    {
+      "id": 24,
+      "imagen": "./img/Moto E40.webp",
+      "nombre": "Moto G41 Dual SIM 128 GB negro onix 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Motorola",
+      "precio": 457900
+    },
+    {
+      "id": 25,
+      "imagen": "./img/Moto G72.webp",
+      "nombre": "Moto G72 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Motorola",
+      "precio": 798952
+    },
+    {
+      "id": 26,
+      "imagen": "./img/Moto G23.webp",
+      "nombre": "Moto G23 Dual SIM 128 GB pearl white 4 GB RAM",
+      "descripcion": "ispositivo cuenta con cámara frontal de 16 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas",
+      "categoria": "Motorola",
+      "precio": 529900
+    },
+    {
+      "id": 27,
+      "imagen": "./img/Moto E22.webp",
+      "nombre": "Moto E22 Dual SIM 128 GB gris 4 GB RAM",
+      "descripcion": "batería de 4020 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas.",
+      "categoria": "Motorola",
+      "precio": 369900
+    },
+    {
+      "id": 28,
+      "imagen": "./img/Blade L210.webp",
+      "nombre": "ZTE Blade L210 Dual SIM 32 GB negro 1 GB RAM",
+      "descripcion": "batería de 2000 mAh se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.",
+      "categoria": "ZTE",
+      "precio": 181900
+    },
+    {
+      "id": 29,
+      "imagen": "./img/Blade A31.webp",
+      "nombre": "ZTE Blade A31 Lite Dual SIM 32 GB black 1 GB RAM",
+      "descripcion": "memoria RAM de 1 GB es justo lo que necesitas para utilizar las funciones más importantes como llamar, enviar mensajes, navegar y ejecutar aplicaciones de uso frecuente como redes sociales o multimedia.",
+      "categoria": "ZTE",
+      "precio": 178000
+    },
+    {
+      "id": 30,
+      "imagen": "./img/Blade A3.webp",
+      "nombre": "ZTE Blade A3 Lite Dual SIM 32 GB azul 1 GB RAM",
+      "descripcion": " batería de 2000 mAh se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.",
+      "categoria": "ZTE",
+      "precio": 178609
+    },
+    {
+      "id": 31,
+      "imagen": "./img/Blade A51.webp",
+      "nombre": "ZTE Blade A51 32 GB gris 2 GB RAM",
+      "descripcion": "memoria RAM de 2 GB es justo lo que necesitas para utilizar las funciones más importantes como llamar, enviar mensajes, navegar y ejecutar aplicaciones de uso frecuente como redes sociales o multimedia.",
+      "categoria": "ZTE",
+      "precio": 398900
+    },
+    {
+      "id": 32,
+      "imagen": "./img/Blade A71.webp",
+      "nombre": "ZTE Blade A71 64 GB grey 3 GB RAM",
+      "descripcion": "cuenta con cámara frontal de 8 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.",
+      "categoria": "ZTE",
+      "precio": 316907
+    },
+    {
+      "id": 33,
+      "imagen": "./img/Cseries C01.webp",
+      "nombre": "Nokia Cseries C01 Plus (5 Mpx) 32 GB azul 1 GB RAM",
+      "descripcion": "cámara frontal con flash prepárate para compartir selfies más iluminadas en tus redes sociales.",
+      "categoria": "Nokia",
+      "precio": 293638
+    },
+    {
+      "id": 34,
+      "imagen": "./img/Nokia G21.webp",
+      "nombre": "Nokia G21 128 GB azul 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Nokia",
+      "precio": 470000
+    },
+    {
+      "id": 35,
+      "imagen": "./img/Nokia C1 Plus.webp",
+      "nombre": "Nokia C1 Plus 16 GB black 1 GB RAM",
+      "descripcion": "batería de 2500 mAh se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.",
+      "categoria": "Nokia",
+      "precio": 329900
+    },
+      {
+      "id": 36,
+      "imagen": "./img/Moto E40.webp",
+      "nombre": "Moto G41 Dual SIM 128 GB negro onix 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Motorola",
+      "precio": 457900
+    },
+    {
+      "id": 37,
+      "imagen": "./img/Moto G72.webp",
+      "nombre": "Moto G72 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Motorola",
+      "precio": 798952
+    },
+    {
+      "id": 38,
+      "imagen": "./img/Moto G23.webp",
+      "nombre": "Moto G23 Dual SIM 128 GB pearl white 4 GB RAM",
+      "descripcion": "ispositivo cuenta con cámara frontal de 16 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas",
+      "categoria": "Motorola",
+      "precio": 529900
+    },
+    {
+      "id": 39,
+      "imagen": "./img/Moto E22.webp",
+      "nombre": "Moto E22 Dual SIM 128 GB gris 4 GB RAM",
+      "descripcion": "batería de 4020 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas.",
+      "categoria": "Motorola",
+      "precio": 369900
+    },
+    {
+      "id": 40,
+      "imagen": "./img/Blade L210.webp",
+      "nombre": "ZTE Blade L210 Dual SIM 32 GB negro 1 GB RAM",
+      "descripcion": "batería de 2000 mAh se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.",
+      "categoria": "ZTE",
+      "precio": 181900
+    },
+    {
+      "id": 41,
+      "imagen": "./img/Blade A31.webp",
+      "nombre": "ZTE Blade A31 Lite Dual SIM 32 GB black 1 GB RAM",
+      "descripcion": "memoria RAM de 1 GB es justo lo que necesitas para utilizar las funciones más importantes como llamar, enviar mensajes, navegar y ejecutar aplicaciones de uso frecuente como redes sociales o multimedia.",
+      "categoria": "ZTE",
+      "precio": 178000
+    },
+    {
+      "id": 42,
+      "imagen": "./img/Moto E40.webp",
+      "nombre": "Moto G41 Dual SIM 128 GB negro onix 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Ofertas",
+      "precio": 457900
+    },
+    {
+      "id": 43,
+      "imagen": "./img/Moto G72.webp",
+      "nombre": "Moto G72 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Ofertas",
+      "precio": 798952
+    },
+    {
+      "id": 44,
+      "imagen": "./img/Moto G23.webp",
+      "nombre": "Moto G23 Dual SIM 128 GB pearl white 4 GB RAM",
+      "descripcion": "ispositivo cuenta con cámara frontal de 16 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas",
+      "categoria": "Ofertas",
+      "precio": 529900
+    },
+    {
+      "id": 45,
+      "imagen": "./img/Moto E22.webp",
+      "nombre": "Moto E22 Dual SIM 128 GB gris 4 GB RAM",
+      "descripcion": "batería de 4020 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas.",
+      "categoria": "Ofertas",
+      "precio": 369900
+    },
+    {
+      "id": 46,
+      "imagen": "./img/Blade L210.webp",
+      "nombre": "ZTE Blade L210 Dual SIM 32 GB negro 1 GB RAM",
+      "descripcion": "batería de 2000 mAh se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.",
+      "categoria": "Ofertas",
+      "precio": 181900
+    },
+    {
+      "id": 47,
+      "imagen": "./img/Blade A31.webp",
+      "nombre": "ZTE Blade A31 Lite Dual SIM 32 GB black 1 GB RAM",
+      "descripcion": "memoria RAM de 1 GB es justo lo que necesitas para utilizar las funciones más importantes como llamar, enviar mensajes, navegar y ejecutar aplicaciones de uso frecuente como redes sociales o multimedia.",
+      "categoria": "Ofertas",
+      "precio": 178000
+    },
+    {
+      "id": 48,
+      "imagen": "./img/Iphone 11 Pro.webp",
+      "nombre": "iPhone 11 Pro 64 GB verde medianoche",
+      "descripcion": "La pantalla OLED Super Retina XDR de 5,8, sin marcos y con una resolución FullHD+, es la pantalla más nítida diseñada por Apple. Cuenta con dos niveles máximos de brillo que se ajustan automáticamente a la luz del ambiente. Gracias a la alta intensidad de contrastes y a un mayor nivel de detalle, es perfecta para ver películas HDR, incluso bajo el sol",
+      "categoria": "Novedades",
+      "precio": 2759999
+    },
+    {
+      "id": 49,
+      "imagen": "./img/Moto G52.webp",
+      "nombre": "Moto G52 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Novedades",
+      "precio": 624900
+    },
+    {
+      "id": 50,
+      "imagen": "./img/Moto G32.webp",
+      "nombre": "Moto G32 Dual SIM 128 GB gris mineral 4 GB RAM",
+      "descripcion": "Máxima seguridad para que solo tú puedas acceder al equipo. Podrás elegir entre el sensor de huella dactilar para habilitar el teléfono en un toque, o el reconocimiento facial que permite un desbloqueo hasta un 30% más rápido.",
+      "categoria": "Novedades",
+      "precio": 559900
+    },
+    {
+      "id": 51,
+      "imagen": "./img/Moto E40.webp",
+      "nombre": "Moto G41 Dual SIM 128 GB negro onix 4 GB RAM",
+      "descripcion": "memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.",
+      "categoria": "Novedades",
+      "precio": 457900
+    },
+    {
+      "id": 52,
+      "imagen": "./img/Moto G72.webp",
+      "nombre": "Moto G72 Dual SIM 128 GB negro 6 GB RAM",
+      "descripcion": "potente procesador y memoria RAM de 6 GB tu equipo alcanzará un alto rendimiento con gran velocidad de transmisión de contenidos y ejecutará múltiples aplicaciones a la vez sin demoras.",
+      "categoria": "Novedades",
+      "precio": 798952
+    },
+    {
+      "id": 56,
+      "imagen": "./img/Moto G23.webp",
+      "nombre": "Moto G23 Dual SIM 128 GB pearl white 4 GB RAM",
+      "descripcion": "ispositivo cuenta con cámara frontal de 16 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas",
+      "categoria": "Novedades",
+      "precio": 529900
+    },
+    {
+      "id": 54,
+      "imagen": "./img/Moto E22.webp",
+      "nombre": "Moto E22 Dual SIM 128 GB gris 4 GB RAM",
+      "descripcion": "batería de 4020 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas.",
+      "categoria": "Novedades",
+      "precio": 369900
+    }
+  ]
+}
