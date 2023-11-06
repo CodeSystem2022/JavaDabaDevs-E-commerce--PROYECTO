@@ -22,14 +22,15 @@ Como parte de un **proyecto integrador**, nuestro objetivo es crear una platafor
 
 ## 🧑‍💻 Equipo de Desarrollo 🧑‍💻
 
-- Augusto Nicolás Casado
-- Gilda Carolina Mamani Condori
-- Johana Martinez
-- Campos Luisa Margarita
-- Marcelo Alejandro Boujon
-- David Esteche
-- Araceli Pintos
-- Ciro Valentin Martinez Gonzalez
+- :heavy_check_mark: Ciro Valentin Martinez Gonzalez [[https://github.com/pilochincho]]
+- :heavy_check_mark: David Esteche [[https://github.com/Davo-e]]
+- :heavy_check_mark: Johana Martínez [[https://github.com/JohanaMM]]
+- :heavy_check_mark: Araceli Pintos [[https://github.com/AraceliPintos]]
+- :heavy_check_mark: Augusto Casado [[https://github.com/Augustonc]]
+- :heavy_check_mark: Gilda Carolina Mamani Condori [[https://github.com/CMCNY]]
+- :heavy_check_mark: Margarita Luisa Campos [[https://github.com/vrunito2021]]
+- :heavy_check_mark: Marcelo Alejandro Boujón [[https://github.com/boujonmarcelo]]
+
 
 ## 📅 Plazo de Entrega 📅
 
