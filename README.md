@@ -16,20 +16,52 @@ Bienvenido a **Dabastore**, la plataforma de e-commerce diseñada por el equipo 
   <img src="https://img001.prntscr.com/file/img001/VB56WJkxQAqtD_NkO9XYcw.png" alt="Imagen">
 </div>
 
-## :briefcase: The JavaDabaDev's E-COMMERCE Project
+## Comenzando
 
-Este es un **proyecto integrador** de comercio electrónico que destaca por su eficiencia, seguridad y facilidad de uso. Nos enfocamos en cumplir con todos los requisitos y características para una experiencia de usuario excepcional.
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-### 📜 Requisitos Legales y Normativos
+### Prerrequisitos
 
-- **Políticas de Privacidad y Protección de Datos**: Aseguramos la confidencialidad y la seguridad de la información de nuestros usuarios.
-- **Términos y Condiciones**: Transparencia en las reglas y responsabilidades al utilizar nuestra plataforma.
+Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/) (o cualquier otro gestor de paquetes relevante) en tu sistema. También necesitarás una base de datos [MySQL](https://www.mysql.com/) o [MongoDB](https://www.mongodb.com/), dependiendo de la configuración del proyecto.
 
-### 🛒 Características Principales del E-Commerce
+### Instalación
 
-- **Sistema de Compra y Venta Online**: Plataforma intuitiva para una experiencia de compra sin complicaciones.
-- **Interfaz Amigable y Diseño Responsivo**: Adaptabilidad a cualquier dispositivo, mejorando la accesibilidad.
-- **Pasarelas de Pago Seguras**: Métodos de pago confiables y verificados.
+Sigue estos pasos para configurar tu entorno de desarrollo:
+
+1. Clona el repositorio en tu máquina local:
+**`git clone https://github.com/CodeSystem2022/JavaDabaDevs-E-commerce--PROYECTO.git`**
+
+2. Navega al directorio del proyecto.
+**`cd JavaDabaDevs-E-commerce--PROYECTO`**
+
+3. Instala las dependencias del proyecto.
+**`npm install`**: Instala las dependencias necesarias.
+
+4. Configura las variables de entorno necesarias para la base de datos y cualquier otro servicio externo en un archivo `.env` en la raíz del proyecto.
+
+5. Ejecuta el servidor de desarrollo.
+**`npm start`**
+
+El proyecto ahora debería estar corriendo en `http://localhost:3000` o en otro puerto configurado.
+
+## Uso
+
+Para usar la aplicación, navega a `http://localhost:3000` en tu navegador web. Explora la variedad de celulares disponibles, añade productos a tu carrito y procede al checkout para completar tu compra.
+### Características Principales
+
+- Búsqueda y filtrado de productos
+- Gestión de carrito de compras
+- Sistema de checkout
+- Autenticación de usuarios
+
+## Construido Con
+
+- HTML, CSS, JavaScript - Lenguajes de desarrollo web
+- Node.js - Entorno de ejecución para JavaScript
+- Express - Infraestructura web para Node.js
+- MySQL/MongoDB - Sistema de gestión de bases de datos
+
+
 
 ### 🧑‍💻 Responsabilidades del Equipo de Desarrollo
 
@@ -43,12 +75,6 @@ Este es un **proyecto integrador** de comercio electrónico que destaca por su e
     - :heavy_check_mark: Gilda Carolina Mamani Condori 
     - :heavy_check_mark: Margarita Luisa Campos 
     - :heavy_check_mark: Marcelo Alejandro Boujón
-
-  
-### :hammer_and_wrench: Herramientas y Tecnologías Utilizadas
-
-- **Frontend**: HTML5, CSS, JavaScript
-- **Backend**: Json
 
 <p align="right">
 Equipo The JavaDabaDev's!<img src="https://i.ibb.co/sKtD6Jw/crop-jdevs.png" width="150" height="150" alt="Daba Store Logo">
