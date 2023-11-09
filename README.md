@@ -67,14 +67,15 @@ Para usar la aplicación, navega a `http://localhost:3000` en tu navegador web. 
 
 - **Desarrollo y Mantenimiento**: A cargo de The JavaDabaDev's, con un compromiso hacia mejoras continuas y soporte técnico eficaz.
 - **Roles Específicos**: Cada miembro del equipo juega un papel crucial en áreas como Backend, Frontend y Gestión de Base de Datos
-    - :heavy_check_mark: Ciro Valentin Martinez Gonzalez 
-    - :heavy_check_mark: David Esteche 
-    - :heavy_check_mark: Johana Martínez 
-    - :heavy_check_mark: Araceli Pintos 
-    - :heavy_check_mark: Augusto Casado 
-    - :heavy_check_mark: Gilda Carolina Mamani Condori 
-    - :heavy_check_mark: Margarita Luisa Campos 
-    - :heavy_check_mark: Marcelo Alejandro Boujón
+    - :heavy_check_mark: [Ciro Valentin Martinez Gonzalez](https://github.com/CiroValentinMartinezG)
+    - :heavy_check_mark: [David Esteche](https://github.com/David-Esteche)
+    - :heavy_check_mark: [Johana Martínez](https://github.com/JohanaMM)
+    - :heavy_check_mark: [Araceli Pintos](https://github.com/AraceliPintos)
+    - :heavy_check_mark: [Augusto Casado](https://github.com/Augustonc)
+    - :heavy_check_mark: [Gilda Carolina Mamani Condori](https://github.com/CarolinaMamani)
+    - :heavy_check_mark: [Margarita Luisa Campos](https://github.com/MARITACAMPOS)
+    - :heavy_check_mark: [Marcelo Alejandro Boujón](https://github.com/boujonmarcelo)
+
 
 <p align="right">
 Equipo The JavaDabaDev's!<img src="https://i.ibb.co/sKtD6Jw/crop-jdevs.png" width="150" height="150" alt="Daba Store Logo">
