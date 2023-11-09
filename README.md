@@ -1,5 +1,7 @@
 # 📱 Dabastore: Tu Destino para la Compra de Celulares 📱
-![Daba Store Logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6aa31387-d795-4e1e-a3c4-456404eae1b5/dgfevfr-7717ac6d-6a60-45f7-9427-50488d6070cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZhYTMxMzg3LWQ3OTUtNGUxZS1hM2M0LTQ1NjQwNGVhZTFiNVwvZGdmZXZmci03NzE3YWM2ZC02YTYwLTQ1ZjctOTQyNy01MDQ4OGQ2MDcwY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgCJkM0oxm2tpMXoxduB7PE71RMrXEVtrE_D6cifRfo)
+<div style="text-align:center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6aa31387-d795-4e1e-a3c4-456404eae1b5/dgfevfr-7717ac6d-6a60-45f7-9427-50488d6070cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZhYTMxMzg3LWQ3OTUtNGUxZS1hM2M0LTQ1NjQwNGVhZTFiNVwvZGdmZXZmci03NzE3YWM2ZC02YTYwLTQ1ZjctOTQyNy01MDQ4OGQ2MDcwY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgCJkM0oxm2tpMXoxduB7PE71RMrXEVtrE_D6cifRfo" alt="Imagen">
+</div>
 
 Bienvenido a **Dabastore**, la plataforma de e-commerce diseñada por el equipo de desarrollo **The JavaDabaDev's** que se especializa en ofrecer lo último en tecnología móvil. Nuestra misión es proporcionar una experiencia de compra fluida y satisfactoria, con un catálogo que incluye desde los últimos modelos hasta opciones accesibles para todos los presupuestos.
 
@@ -10,6 +12,9 @@ Bienvenido a **Dabastore**, la plataforma de e-commerce diseñada por el equipo 
 - **Proceso de Compra Simplificado**: Selección fácil, pago seguro y confirmación rápida de pedidos.
 - **Garantía de Calidad**: Confianza en cada compra con productos garantizados.
 - **Promociones y Descuentos**: Acceso a ofertas especiales y precios competitivos.
+<div style="text-align:center">
+  <img src="https://img001.prntscr.com/file/img001/VB56WJkxQAqtD_NkO9XYcw.png" alt="Imagen">
+</div>
 
 ## :briefcase: The JavaDabaDev's E-COMMERCE Project
 
