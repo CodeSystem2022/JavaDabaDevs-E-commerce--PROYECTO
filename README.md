@@ -78,7 +78,9 @@ Para usar la aplicación, navega a `http://localhost:3000` en tu navegador web. 
 
 
 <p align="right">
-Equipo The JavaDabaDev's!<img src="https://i.ibb.co/sKtD6Jw/crop-jdevs.png" width="150" height="150" alt="Daba Store Logo">
+  Equipo <a href="https://github.com/CodeSystem2022/JavaDabaDevs-Cuarto-Semestre">The JavaDabaDev's</a><br>
+  <img src="https://i.ibb.co/sKtD6Jw/crop-jdevs.png" width="150" height="150" alt="Daba Store Logo">
 </p>
+
 
 
