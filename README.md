@@ -22,7 +22,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ### Prerrequisitos
 
-Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/) (o cualquier otro gestor de paquetes relevante) en tu sistema. También necesitarás una base de datos [MySQL](https://www.mysql.com/) o [MongoDB](https://www.mongodb.com/), dependiendo de la configuración del proyecto.
+Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/) (o cualquier otro gestor de paquetes relevante) en tu sistema. 
 
 ### Instalación
 
@@ -42,26 +42,23 @@ Sigue estos pasos para configurar tu entorno de desarrollo:
 5. Ejecuta el servidor de desarrollo.
 **`npm start`**
 
-El proyecto ahora debería estar corriendo en `http://localhost:3000` o en otro puerto configurado.
+El proyecto ahora debería estar corriendo en `http://localhost:8080` o en otro puerto configurado.
 
 ## Uso
 
-Para usar la aplicación, navega a `http://localhost:3000` en tu navegador web. Explora la variedad de celulares disponibles, añade productos a tu carrito y procede al checkout para completar tu compra.
+Para usar la aplicación, navega a `http://localhost:8080` en tu navegador web. Explora la variedad de celulares disponibles, añade productos a tu carrito y procede al checkout para completar tu compra.
+
 ### Características Principales
 
 - Búsqueda y filtrado de productos
 - Gestión de carrito de compras
 - Sistema de checkout
-- Autenticación de usuarios
 
 ## Construido Con
 
 - HTML, CSS, JavaScript - Lenguajes de desarrollo web
 - Node.js - Entorno de ejecución para JavaScript
 - Express - Infraestructura web para Node.js
-- MySQL/MongoDB - Sistema de gestión de bases de datos
-
-
 
 ### 🧑‍💻 Responsabilidades del Equipo de Desarrollo
 
